@@ -10,3 +10,5 @@ Sitio estático: HTML + CSS + JS, sin build. Se despliega tal cual en Vercel.
 - `img/` — fotos de trabajos y logo
 
 El WhatsApp (+593 98 980 7375) está en `index.html` y en `js/main.js` (constante `PHONE`).
+
+Despliegue: Vercel (proyecto estático, Framework Preset `Other`, sin build).
