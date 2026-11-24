@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://setec-pinos-web.vercel.app/sitemap.xml
